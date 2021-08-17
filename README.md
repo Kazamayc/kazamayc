@@ -1,4 +1,15 @@
-```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazamayc)](https://github.com/anuraghazra/github-readme-stats)
-```
+
+
+
+
+
+
+Hi, I'm kazamayc👋
+
+* 🌿一名伪ctfer，立志成为master of pwn
+* ⭐️喜欢二次元，喜欢交朋友
+
+![20190529128262_CdpJKW.jpg](https://i.loli.net/2021/08/17/89QRwO74fY2TsdB.jpg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazamayc&show_icons=true&theme=dracula)
 
